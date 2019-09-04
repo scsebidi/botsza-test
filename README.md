@@ -4,6 +4,7 @@
 ### tools  
 1. React for front-end  
 2. python for back-end  
+3. hug module for api framework  
 
 ### Installation 
 1. pip3 install hug 
